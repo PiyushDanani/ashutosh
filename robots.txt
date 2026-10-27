@@ -1,0 +1,21 @@
+# Robots.txt for Ashutosh Build Stone Pvt. Ltd.
+User-agent: *
+Allow: /
+
+# Dedicated AI and Generative Engine Crawlers
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+Sitemap: https://ashutoshbuildstone.com/sitemap.xml
